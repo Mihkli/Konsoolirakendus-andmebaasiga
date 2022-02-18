@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/YU+m5y/oMNZ7Yegl4aguO6k4CdOzWLc1xllsskolG985D52C4GMD3P3OSK4q/ALdl7e2/eoPXuKxU5pI3XdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevin\\source\\repos\\SQLiteCountries\\SQLiteCountries\\SQLiteCountries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
